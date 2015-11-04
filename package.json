@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-strip-requirejs-plugin-prefix",
+  "version": "1.0.0",
+  "description": "Strips off plugin prefixes from all define and require calls",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayneb/babel-plugin-strip-requirejs-plugin-prefix"
+  },
+  "devDependencies": {
+    "babel": "^5.6.0"
+  }
+}
